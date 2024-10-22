@@ -4,11 +4,11 @@
 
 # QuickSell Assignment
 
-- Name: Amresh Prasad Sinha
-- Roll No.: 200122009
-- Email (College): s.amresh@iitg.ac.in
-- Email (Personal): theamresh.sinha@gmail.com
-- Hosted Site: https://quick-sell-assignment-amresh.vercel.app/
+- Name: Tanmay Vikas Admuthe
+- Roll No.: 21BLC1206
+- Email (College): tanmayvikas.admuthe2021@vitstudent.ac.in
+- Email (Personal): tanmayadmuthe32@gmail.com
+- Hosted Site: 
 
 # Usage
 
