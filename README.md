@@ -8,7 +8,7 @@
 - Roll No.: 21BLC1206
 - Email (College): tanmayvikas.admuthe2021@vitstudent.ac.in
 - Email (Personal): tanmayadmuthe32@gmail.com
-- Hosted Site: 
+- Hosted Site: https://quicksellfrontendassignment-lyart.vercel.app/
 
 # Usage
 
