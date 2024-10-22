@@ -15,6 +15,7 @@ interface CardProps {
   };
 }
 
+
 type User = {
   id: string;
   name: string;

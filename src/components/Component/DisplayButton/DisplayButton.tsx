@@ -16,6 +16,7 @@ export default function DisplayButton({ onClick }: DisplayButtonProps) {
   );
 }
 
+
 const DisplayButtonWrapper = styled.button`
   all: unset;
   display: flex;

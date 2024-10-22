@@ -16,3 +16,4 @@ const TopBarWrapper = styled.div`
   padding: 1.25rem 3rem;
   background-color: #ffffff;
 `;
+

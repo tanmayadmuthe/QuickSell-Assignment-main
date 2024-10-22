@@ -18,6 +18,7 @@ export default function DisplayCard() {
     ordering: ["priority", "title"],
   };
 
+  
   // onChangeHandler for the dropdowns
   const onChangeHandler = (e: React.ChangeEvent<HTMLSelectElement>) => {
     const modifDisplayState = displayState;

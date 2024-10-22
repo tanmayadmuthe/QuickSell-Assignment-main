@@ -38,6 +38,7 @@ export default function ColumnHeader({
   );
 }
 
+
 const ColumnHeaderWrapper = styled.div`
   box-sizing: border-box;
   width: 100%;

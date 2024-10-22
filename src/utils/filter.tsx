@@ -15,6 +15,7 @@ import SignalHigh from "../assets/icons/SignalHigh.svg";
 import SignalMedium from "../assets/icons/SignalMedium.svg";
 import SignalLow from "../assets/icons/SignalLow.svg";
 
+
 interface DataType {
   tickets: {
     id: string;

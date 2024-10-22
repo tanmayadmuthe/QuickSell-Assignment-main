@@ -48,6 +48,7 @@ export interface ContextProps {
   readonly setDisplayState: (displayState: DisplayState) => void;
 }
 
+
 export const AppContext = createContext<ContextProps>({
   data: null,
   setData: () => null,
