@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./Screenshot-1.png" width="800" alt="Screenshot" />
+    <img src="./image.png" width="800" alt="Screenshot" />
 </p>
 
 # QuickSell Assignment
